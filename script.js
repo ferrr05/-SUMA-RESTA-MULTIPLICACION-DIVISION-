@@ -1,5 +1,6 @@
 function calcular() {
-    var num1 = parseFloat(prompt("Introduzca el primer número:"));
+
+ var num1 = parseFloat(prompt("Introduzca el primer número:"));
     var num2 = parseFloat(prompt("Introduzca el segundo número:"));
     
     var suma = num1 + num2;
